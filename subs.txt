@@ -1,0 +1,17 @@
+## لینک ساب‌ها را هر کدام در یک خط بنویس (هر تعداد که خواستی)
+## کانفیگ تکی هم می‌شود: vless://... یا vmess://... یا trojan://...
+## خط‌هایی که با دو علامت # شروع شوند فقط توضیح‌اند
+##
+## نمونه:
+## https://example.com/sub1
+## https://example.com/sub2
+##
+## تنظیمات اختیاری (با یک # و بدون فاصله‌ی اضافه):
+#support=@Mani_ad
+## #theme=combo        (combo, aurora, orbit, wave, hex, orb, line, shield, stars, ocean, ice)
+## #channel=@your_channel
+## #news=@your_news_channel
+## #bot=@your_bot
+## #creator=نام سازنده
+## #message=متن پیامی که هنگام ورود به کاربر نشان داده می‌شود
+## #limit=1500         (حداکثر تعداد سرور)
