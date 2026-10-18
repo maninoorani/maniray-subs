@@ -3,7 +3,7 @@
 ## خط‌هایی که با دو علامت # شروع شوند فقط توضیح‌اند
 ##
 ## نمونه:
-## https://example.com/sub1
+## https://mifa.world/argon
 ## https://example.com/sub2
 ##
 ## تنظیمات اختیاری (با یک # و بدون فاصله‌ی اضافه):
@@ -15,3 +15,15 @@
 ## #creator=نام سازنده
 ## #message=متن پیامی که هنگام ورود به کاربر نشان داده می‌شود
 ## #limit=1500         (حداکثر تعداد سرور)
+https://mifa.world/argon
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/22.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/6.txt
+https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/main/githubmirror/23.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub1.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub2.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub3.txt
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub4.txt
+...
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub39.txt
