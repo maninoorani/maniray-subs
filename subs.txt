@@ -14,3 +14,4 @@
 ## #message=متن پیامی که هنگام ورود به کاربر نشان داده می‌شود
 ## #limit=1500         (حداکثر تعداد سرور)
 https://superjinx108-production-9736.up.railway.app/sub/djMsMjQsMTc5MjQxMjcxNA.Xfcp00kx3OD_UajxL8GQAX_0BBk-9a6j_9JrCNfdLZc
+https://harchihast.net/sub/djMsNTk0NiwxNzkyMjM0NDg4.WhZpZisrZAurK-1TlfEdBazgZINmV_lkBaDOeqnn1F0
