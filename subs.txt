@@ -15,3 +15,6 @@
 ## #limit=1500         (حداکثر تعداد سرور)
 https://superjinx108-production-9736.up.railway.app/sub/djMsMjQsMTc5MjQxMjcxNA.Xfcp00kx3OD_UajxL8GQAX_0BBk-9a6j_9JrCNfdLZc
 https://harchihast.net/sub/djMsNTk0NiwxNzkyMjM0NDg4.WhZpZisrZAurK-1TlfEdBazgZINmV_lkBaDOeqnn1F0
+https://sub.shadowproxy66.workers.dev/sub/736218dc-3cdf-4e93-bb5b-1d726418e43e#ShadowProxy66(1)
+https://sub.shadowproxy66.workers.dev/sub/e298329f-2274-4b24-8d7c-84183c77dba8#ShadowProxy66(2)
+https://sub.shadowproxy66.workers.dev/sub/e7c122fa-35f6-4962-9ff4-70ab55e6fbac#ShadowProxy66(3)
