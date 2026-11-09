@@ -13,4 +13,4 @@
 ## #creator=نام سازنده
 ## #message=متن پیامی که هنگام ورود به کاربر نشان داده می‌شود
 ## #limit=1500         (حداکثر تعداد سرور)
-https://subpg1.panel98.ir/sub/djMsMTA0NDQsMTc5Mzk3NDE1OQ.jO470_rq9nx0btjfq4eIPSHf-xEqHDVcDUzuo1rE028
+https://subpg1.panel98.ir/sub/djMsMTA4NzQsMTc5NDI1MzkwOA.Zs9vbzK41XdBXvKoSa-UnqMaHbfDk0H5M-kKWPpT99c
