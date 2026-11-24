@@ -13,4 +13,9 @@
 ## #creator=نام سازنده
 ## #message=متن پیامی که هنگام ورود به کاربر نشان داده می‌شود
 ## #limit=1500         (حداکثر تعداد سرور)
-https://subpg1.panel98.ir/sub/djMsMTA4NzQsMTc5NDI1MzkwOA.Zs9vbzK41XdBXvKoSa-UnqMaHbfDk0H5M-kKWPpT99c
+
+https://rw.veilora.net:8443/api/sub/paByGryTHJyfucQh
+https://rw.veilora.net/api/sub/6jHK5u3XQRFgp8Ls#Veilora
+https://rw.veilora.net:8443/api/sub/wHTok9vuzwSFAZta
+
+
